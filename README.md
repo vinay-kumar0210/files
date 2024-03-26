@@ -2,6 +2,7 @@
 #include<math.h>
 int top[5],play[5][5];
 char playboard[3][3];
+
 //function to random numbers from the set 2,4,8,16,32
 int random()
 {
