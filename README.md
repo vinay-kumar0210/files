@@ -17,6 +17,7 @@ int checkup(int row,int column)
     return 1;
     return 0;
 }
+
 //function to whether a number in column is to the number left to it
 int checkleft(int row,int column)
 {
