@@ -10,6 +10,7 @@ int random()
     a=pow(2,num);
     return a;
 }
+
 //function to whether a number in column is to the number above it
 int checkup(int row,int column)
 {
